@@ -8,23 +8,20 @@ Using historical financial data (2012–2016) from NYSE-listed companies, I deve
 
 This project demonstrates my capabilities as a Business & Data Analyst by transforming raw, unstructured financial data into actionable insights.
 
-Starting from Excel, I:
 
-Cleaned and modeled multi-year financial data (Revenue, Operating Expense, and Profit)
+* Cleaned and modeled multi-year financial data (Revenue, Operating Expense, and Profit)
 
-Built pivot tables and sector-level reports to uncover patterns in company performance
+* Built pivot tables and sector-level reports to uncover patterns in company performance
 
-Designed forecasting models to simulate potential outcomes for 2017–2018
+* Designed forecasting models to simulate potential outcomes for 2017–2018
 
-Then, in Power BI, I:
+* Created a dynamic dashboard summarizing total revenue, expenses, gross profit, and growth across seven key sectors
 
-Created a dynamic dashboard summarizing total revenue, expenses, gross profit, and growth across seven key sectors
+* Integrated forecast visuals to show how performance might evolve under different market conditions
 
-Integrated forecast visuals to show how performance might evolve under different market conditions
+* Highlighted the connection between data analysis and investment decision-making — similar to how funds like PIF evaluate sector-level behavior
 
-Highlighted the connection between data analysis and investment decision-making — similar to how funds like PIF evaluate sector-level behavior
-
-The project aims to demonstrate how financial data, when properly analyzed and visualized, can support strategic investment thinking and evidence-based decisions.
+* The project aims to demonstrate how financial data, when properly analyzed and visualized, can support strategic investment thinking and evidence-based decisions.
 
 🔍 Key Highlights
 
