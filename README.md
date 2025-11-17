@@ -1,37 +1,57 @@
-# Project-NYSE
-Financial analysis of NYSE-listed companies using Excel. Includes revenue, expenses, profit margins, pivot tables, charts, and forecast scenarios across sectors. Useful for understanding financial trends and sector performance.
+📊 Project-NYSE: Financial & Forecasting Dashboard
 
-# 📈 Project-NYSE: Financial Analysis Dashboard
+This project showcases my end-to-end analytical process — from working with raw financial data in Excel to building a fully interactive Power BI dashboard with sector-level forecasting.
 
-This project showcases my ability as a Business Analyst to extract insights from complex financial data using Excel-based tools.
+Using historical financial data (2012–2016) from NYSE-listed companies, I developed a clear analytical story that visualizes how each sector contributes to market performance and how forecasting models can project future trends (2017–2018).
 
-Using historical data from NYSE-listed companies, I created dynamic dashboards and pivot reports to analyze key financial metrics across various industry sectors.
+📌 Project Description
 
-## 📌 Project Description
+This project demonstrates my capabilities as a Business & Data Analyst by transforming raw, unstructured financial data into actionable insights.
 
-This project demonstrates my capabilities as a Business Analyst by analyzing the financial performance of NYSE-listed companies using Excel.
+Starting from Excel, I:
 
-I collected, cleaned, and modeled multi-year financial data, then built interactive pivot tables and charts to extract insights across industries. I applied forecasting techniques to simulate future performance under different economic scenarios (Best, Base, and Weak).
+Cleaned and modeled multi-year financial data (Revenue, Operating Expense, and Profit)
 
-The goal was to uncover sector trends, evaluate company profitability, and support strategic decision-making — skills directly aligned with real-world business analysis roles.
+Built pivot tables and sector-level reports to uncover patterns in company performance
 
-This project showcases my ability to turn raw data into clear, actionable insights — and reflects my readiness to contribute value in data-driven organizations.
+Designed forecasting models to simulate potential outcomes for 2017–2018
 
-## 🔍 Key Highlights:
+Then, in Power BI, I:
 
-- Analyzed **multi-year financial data** (Revenue, COGS, SG&A, Operating Income)
-- Built **pivot tables** and **charts** to compare sector-wise performance
-- Designed **forecasting scenarios** to project potential future outcomes
-- Identified trends in **gross margin**, **operating margin**, and **sector growth**
+Created a dynamic dashboard summarizing total revenue, expenses, gross profit, and growth across seven key sectors
 
-## 💼 Skills Demonstrated:
+Integrated forecast visuals to show how performance might evolve under different market conditions
 
-- Financial analysis
-- Data visualization 
-- Business insight extraction
-- Scenario modeling and forecasting
-- Sector benchmarking
+Highlighted the connection between data analysis and investment decision-making — similar to how funds like PIF evaluate sector-level behavior
 
-## 🎯 Objective:
-This project reflects my capability to deliver actionable insights from raw financial data — a critical skill for any Data or Business Analyst role.
+The project aims to demonstrate how financial data, when properly analyzed and visualized, can support strategic investment thinking and evidence-based decisions.
 
+🔍 Key Highlights
+
+End-to-end data pipeline: from Excel preprocessing to Power BI visualization
+
+Multi-year analysis (2012–2016) with forecasts for 2017–2018
+
+Sector-based profitability and efficiency breakdown
+
+Interactive visuals for Revenue, Operating Expense, Gross Profit, and Growth
+
+Practical use case linking data analytics to investment logic
+
+💼 Skills Demonstrated
+
+Data cleaning and transformation (Excel)
+
+Financial analysis and scenario modeling
+
+Data visualization (Power BI)
+
+Forecasting and trend interpretation
+
+Business storytelling and insight communication
+
+🎯 Objective
+
+To demonstrate how raw financial data can be transformed into strategic insights that help investors, analysts, or management teams understand market behavior and plan forward-looking strategies.
+
+This project bridges the gap between data analytics and investment analysis, reflecting both technical skill and business acumen.
